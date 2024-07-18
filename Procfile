@@ -1,0 +1,1 @@
+web: java -jar build/libs/api-bank-domain-desafio-0.0.1-SNAPSHOT.jar
