@@ -1,7 +1,18 @@
 # api-bank-domain-desafio Santander Java Bootcamp 2024
 Java RESTful API criada no desafio do bootcamp Santander Java 2024
 
-## Diagrama de Classes
+## Tecnologias usadas
+
+* **Java 17**
+* **Spring Boot 3**
+* **Spring Web**
+* **Spring Data JPA**
+* **OpenAPI (Swagger)**
+* **Railway**
+* **H2 Database**
+* **PostgreSQL Driver**
+
+## Diagrama de Classes (Domínio da API)
 
 ``` mermaid
 classDiagram
